@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/99811402/170741292-ef7f755a-85bb-420a-b4ce-61ef3f874572.png)
 # GUI-AddressBook-Python
 
-An android-like AddressBook made with Python
+An android-like Address Book made with Python
 
 ## Features
 
