@@ -6,14 +6,28 @@ An android-like Address Book made with Python
 ## Features
 
 - ### Add Contacts
-  - With the following information:
-    - Name
-    - Email
-    - Phone
+  - Name
+  - Email
+  - Phone
 
 - ### Update and delete contacts
 
 - ### Search contacts
+
+## Pre-requisites
+
+- Python 3.10.4
+- Python Pillow library
+
+## Instalation instructions
+
+1. Download Python 3.10.4 (Click Python badge in the next section)
+2. Extract GUI-AddressBook-Python-main.zip
+3. Install Pillow library
+  ```
+  pip install Pillow
+  ```
+4. Execute AddressBook.py
 
 ## Developed with:
 
